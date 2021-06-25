@@ -2,7 +2,7 @@
 - 👀 I’m interested in Video Game Mods
 - 🌱 I’m currently learning Python and HTML
 - 💞️ I’m looking to collaborate on anybody else learning
-- 📫 How to reach me chris.zijalic@gmail.com
+- 📫 How to reach me chris.zizjalic@gmail.com
 
 <!---
 GuyBobJoe/GuyBobJoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
